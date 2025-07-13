@@ -1,0 +1,5 @@
+git -h      abre la ayuda de git
+git add .      pasa los todos los archivos que tengas modificados al stage
+git status       te muestra el estado de tu archivos
+git commit -m "nombre"      commiteas los archivos que este en el stage y le pones un nombre a tu commit
+git push -u origin master          manda los archivos commiteados a tu repositorio remoto en github

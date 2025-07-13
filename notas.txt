@@ -1,0 +1,4 @@
+Git es una herramienta que permite a los creadores crear repositorios de manera
+local y remota, para que se pueda tabajar en equipo sin necesidad de tener que estar en la 
+misma computadora, tambien te permite registrar los cambios que se van realizando en el proyecto,
+de este modo, se mantiene un historial que puede servir a futuro.
